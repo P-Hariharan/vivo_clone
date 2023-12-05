@@ -1,0 +1,22 @@
+.center {
+  text-align: center;
+}
+
+#about,
+#contact {
+  border: 1px solid;
+  padding: 5px;
+  margin-top: 25px;
+  background-color: black;
+  color: white;
+}
+
+#about h1,
+#contact h1 {
+  text-align: center;
+}
+
+#about p,
+#contact p {
+  padding-left: 4px;
+}
